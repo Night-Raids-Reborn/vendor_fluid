@@ -155,3 +155,7 @@ endif
 ifeq ($(USE_LAWNCHAIR), true)
 $(call inherit-product, vendor/lawnchair/lawnchair.mk)
 endif
+
+# AICP Ad-block
+PRODUCT_PACKAGES += \
+    hosts.aicp_adblock
