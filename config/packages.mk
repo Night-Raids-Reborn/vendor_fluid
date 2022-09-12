@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
     Terminal \
     ThemePicker \
     QuickAccessWallet \
+    OmniSwitch \
     StitchImage
 
 # Extra tools in Fluid
