@@ -128,10 +128,9 @@ ifneq ($(TARGET_BUILD_FEXTRAS),false)
 include vendor/fextras/Fextras.mk
 endif
 
-ifeq ($(TARGET_INCLUDE_GAPPS), true)
-# GApps
-include vendor/gapps/config.mk
-endif
+# Gapps
+ifeq ($(WITH_GAPPS), true)
+$(call inherit-product, vendor/gapps/gapps.mk)
 
 # Face Unlock
 TARGET_FACE_UNLOCK_SUPPORTED ?= true
