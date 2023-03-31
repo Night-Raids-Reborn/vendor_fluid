@@ -131,6 +131,7 @@ endif
 # Gapps
 ifeq ($(WITH_GAPPS), true)
 $(call inherit-product, vendor/gapps/config.mk)
+endif
 
 # Face Unlock
 TARGET_FACE_UNLOCK_SUPPORTED ?= true
