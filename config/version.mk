@@ -14,8 +14,8 @@
 # limitations under the License.
 
 # Versioning System
-FLUID_CODENAME := Rum
-FLUID_NUM_VER := 1.7
+FLUID_CODENAME := HomeMade
+FLUID_NUM_VER := 1.9
 
 TARGET_PRODUCT_SHORT := $(subst fluid_,,$(FLUID_BUILD_TYPE))
 
@@ -37,7 +37,7 @@ BUILD_DATE := $(shell date -u +%Y%m%d)
 BUILD_TIME := $(shell date -u +%H%M)
 FLUID_BUILD_VERSION := $(FLUID_NUM_VER)-$(FLUID_CODENAME)
 FLUID_VERSION := $(FLUID_BUILD_VERSION)-$(FLUID_BUILD_TYPE)-$(FLUID_BUILD)-$(BUILD_DATE)
-ifeq ($(TARGET_INCLUDE_GAPPS), true)
+ifeq ($(WITH_GAPPS), true)
 FLUID_VERSION := $(FLUID_VERSION)-gapped
 endif
 ROM_FINGERPRINT := Fluid/$(PLATFORM_VERSION)/$(TARGET_PRODUCT_SHORT)/$(BUILD_TIME)
