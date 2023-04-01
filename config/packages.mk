@@ -6,6 +6,7 @@ PRODUCT_PACKAGES += \
     ThemePicker \
     QuickAccessWallet \
     OmniSwitch \
+    SoftAPManager \
     StitchImage
 
 # Extra tools in Fluid
