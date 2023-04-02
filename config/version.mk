@@ -14,7 +14,7 @@
 # limitations under the License.
 
 # Versioning System
-FLUID_CODENAME := HomeMade
+FLUID_CODENAME := Fork
 FLUID_NUM_VER := 1.9
 
 TARGET_PRODUCT_SHORT := $(subst fluid_,,$(FLUID_BUILD_TYPE))
