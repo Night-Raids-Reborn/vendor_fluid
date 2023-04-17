@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_device_default_light">#ffdd1818</color> <!-- ACCENT  LIGHT -->
+    <color name="accent_device_default_dark">#ffdd1818</color> <!-- ACCENT  DARK -->
+    <color name="colorAccent">#ffdd1818</color> <!-- ACCENT -->
+
+    <color name="gradient_start_light">#ff333333</color>
+    <color name="gradient_start_dark">#ff333333</color>
+    <color name="gradient_end_light">#ffdd1818</color>
+    <color name="gradient_end_dark">#ffdd1818</color>
+
+</resources>
+
