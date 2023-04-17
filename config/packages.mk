@@ -64,7 +64,11 @@ PRODUCT_PACKAGES += \
     SystemNightOverlay \
     SystemUINightOverlay \
     SystemSolarizedDarkOverlay \
-    SystemUISolarizedDarkOverlay
+    SystemUISolarizedDarkOverlay \
+    AndroidChocoXThemeOverlay \
+    AndroidElegantThemeOverlay \
+    AndroidExtendedThemeOverlay
+
 
 # Accents
 PRODUCT_PACKAGES += \
