@@ -15,7 +15,7 @@
 
 # Versioning System
 FLUID_CODENAME := Fork
-FLUID_NUM_VER := 1.9
+FLUID_NUM_VER := 1.10
 
 TARGET_PRODUCT_SHORT := $(subst fluid_,,$(FLUID_BUILD_TYPE))
 
