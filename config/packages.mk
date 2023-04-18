@@ -136,45 +136,26 @@ PRODUCT_PACKAGES += \
 
 # New Accents
 PRODUCT_PACKAGES += \
-    BlueBlackThemeOverlay \
     BlueThemeOverlay \
-    CyanBlackThemeOverlay \
     CyanThemeOverlay \
-    GrayBlackThemeOverlay \
     GrayThemeOverlay \
-    GreenBlackThemeOverlay \
     GreenThemeOverlay \
-    MoreBlueBlackThemeOverlay \
     MoreBlueThemeOverlay \
-    MoreGreenBlackThemeOverlay \
     MoreGreenThemeOverlay \
-    MoreOrangeBlackThemeOverlay \
     MoreOrangeThemeOverlay \
-    MoreRedBlackThemeOverlay \
     MoreRedThemeOverlay \
-    NeonBlueBlackThemeOverlay \
     NeonBlueThemeOverlay \
-    NeonGreenBlackThemeOverlay \
     NeonGreenThemeOverlay \
-    NeonOrangeBlackThemeOverlay \
     NeonOrangeThemeOverlay \
-    NeonPurpleBlackThemeOverlay \
     NeonPurpleThemeOverlay \
-    NeonRedBlackThemeOverlay \
     NeonRedThemeOverlay \
-    NeonYellowBlackThemeOverlay \
     NeonYellowThemeOverlay \
-    OrangeBlackThemeOverlay \
     OrangeThemeOverlay \
-    PurpleBlackThemeOverlay \
-    PurpleThemeOverlay \
-    RedBlackThemeOverlay \
+    PurpleThemeOverlay\
     RedThemeOverlay \
     StockThemeOverlay \
-    StockblackThemeOverlay \
-    YellowBlackThemeOverlay \
     YellowThemeOverlay
-    
+
 # Accents
 PRODUCT_PACKAGES += \
     AccentColorAmberOverlay \
