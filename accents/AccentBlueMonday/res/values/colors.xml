@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <!-- accents -->
-    <color name="accent_device_default_light">#ff78b8ff</color>
-    <color name="accent_device_default_dark">#ff5fabff</color>
-    <color name="colorAccent">#ffabd3ff</color>
-
-</resources>
