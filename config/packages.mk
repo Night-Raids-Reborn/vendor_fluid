@@ -64,7 +64,9 @@ PRODUCT_PACKAGES += \
     SystemNightOverlay \
     SystemUINightOverlay \
     SystemSolarizedDarkOverlay \
-    SystemUISolarizedDarkOverlay
+    SystemUISolarizedDarkOverlay \
+    SystemChocoxOverlay \
+    SystemUIChocoxOverlay
 
 
 # Accents
