@@ -133,3 +133,44 @@ PRODUCT_PACKAGES += \
     OutlineWiFiOverlay \
     NothingDotWiFiOverlay \
     PavlovaWiFiOverlay
+
+# New Accents
+PRODUCT_PACKAGES += \
+    BlueBlackThemeOverlay \
+    BlueThemeOverlay \
+    CyanBlackThemeOverlay \
+    CyanThemeOverlay \
+    GrayBlackThemeOverlay \
+    GrayThemeOverlay \
+    GreenBlackThemeOverlay \
+    GreenThemeOverlay \
+    MoreBlueBlackThemeOverlay \
+    MoreBlueThemeOverlay \
+    MoreGreenBlackThemeOverlay \
+    MoreGreenThemeOverlay \
+    MoreOrangeBlackThemeOverlay \
+    MoreOrangeThemeOverlay \
+    MoreRedBlackThemeOverlay \
+    MoreRedThemeOverlay \
+    NeonBlueBlackThemeOverlay \
+    NeonBlueThemeOverlay \
+    NeonGreenBlackThemeOverlay \
+    NeonGreenThemeOverlay \
+    NeonOrangeBlackThemeOverlay \
+    NeonOrangeThemeOverlay \
+    NeonPurpleBlackThemeOverlay \
+    NeonPurpleThemeOverlay \
+    NeonRedBlackThemeOverlay \
+    NeonRedThemeOverlay \
+    NeonYellowBlackThemeOverlay \
+    NeonYellowThemeOverlay \
+    OrangeBlackThemeOverlay \
+    OrangeThemeOverlay \
+    PurpleBlackThemeOverlay \
+    PurpleThemeOverlay \
+    RedBlackThemeOverlay \
+    RedThemeOverlay \
+    StockThemeOverlay \
+    StockblackThemeOverlay \
+    YellowBlackThemeOverlay \
+    YellowThemeOverlay
