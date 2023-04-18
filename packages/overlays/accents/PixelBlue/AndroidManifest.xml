@@ -17,7 +17,7 @@
     package="com.android.theme.color.pixelblue">
 
     <overlay
-        android:category="android.theme.customization.accent_color"
+        android:category="android.theme"
         android:priority="600"
         android:targetPackage="android" />
 
