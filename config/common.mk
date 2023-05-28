@@ -130,7 +130,7 @@ endif
 
 # Gapps
 ifeq ($(WITH_GAPPS), true)
-$(call inherit-product, vendor/gapps/config.mk)
+$(call inherit-product, vendor/gapps/gapps.mk)
 endif
 
 # Face Unlock
