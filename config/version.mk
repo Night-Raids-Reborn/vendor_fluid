@@ -14,8 +14,8 @@
 # limitations under the License.
 
 # Versioning System
-FLUID_CODENAME := Fork
-FLUID_NUM_VER := 1.10
+FLUID_CODENAME := Mod
+FLUID_NUM_VER := 1.15
 
 TARGET_PRODUCT_SHORT := $(subst fluid_,,$(FLUID_BUILD_TYPE))
 
