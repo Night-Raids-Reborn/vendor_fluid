@@ -127,4 +127,16 @@
         <item>cx.ring</item>
         <item>org.briarproject.briar.android</item>
     </string-array>
+
+    <!-- Build properties from a GMS certified device against current platform SPL level -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+        <item>acer_c01</item> <!-- Build.DEVICE -->
+        <item>c01_ww</item>     <!-- Build.PRODUCT -->
+        <item>C01</item>   <!-- Build.MODEL -->
+        <item>acer/c01_ww/acer_c01:7.1.1/NMF26F/1521514970:user/release-keys</item> <!-- Build.FINGERPRINT -->
+        <item>Acer Inc.</item> <!-- Build.MANUFACTURER -->
+        <item>acer</item> <!-- Build.BRAND -->
+        <item>2018-04-01</item> <!-- Build.SECURITY_PATCH -->
+        <item>24</item> <!-- Build.FIRST_API_LEVEL -->
+    </string-array>
 </resources>
